@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Heads open",
+      "image": "https://www.jpl.nasa.gov/images/jpl/20181026/pumpkinlightsout-480.gif",
+      "occupation": "Research",
+      "location": "In the lab"
+    },
+    {
+      "id": 2,
+      "name": "Burning pumpkin",
+      "image": "https://i.pinimg.com/originals/07/c3/34/07c334a915f02ae035a908f54c6b004b.gif",
+      "occupation": "Burning food",
+      "location": "Restaurant"
+    },
+    {
+      "id": 3,
+      "name": "Pumpkin lantern",
+      "image": "http://bestanimations.com/Holidays/Halloween/happy-halloween-starry-night-pumpkin-jack-o-lantern-animated-gif-image.gif",
+      "occupation": "Scaring",
+      "location": "In the sky"
+    },
+    {
+      "id": 4,
+      "name": "Scary together",
+      "image": "https://media1.giphy.com/media/3oz8xqZsDaOSHaqLCw/giphy.gif",
+      "occupation": "Friends Forever",
+      "location": "Garden"
+    },
+    {
+      "id": 5,
+      "name": "Mask man",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Geste_de_respect_et_de_courtoisie_.gif",
+      "occupation": "Entertainment",
+      "location": "Event"
+    },
+    {
+      "id": 6,
+      "name": "Happy halloween",
+      "image": "https://media.giphy.com/media/PKjVRLrzeJmlW/giphy.gif",
+      "occupation": "Greeting to scare",
+      "location": "All house invitaion"
+    },
+    {
+      "id": 7,
+      "name": "Double pumpkin",
+      "image": "https://acegif.com/wp-content/uploads/halloween-gif-animated-93.gif",
+      "occupation": "pumpkin friends",
+      "location": "Together always"
+    },
+    {
+      "id": 8,
+      "name": "Gost girl",
+      "image": "https://cdn.thisiswhyimbroke.com/images/holographic-halloween-decorations-atmosfx.gif",
+      "occupation": "Scare in home",
+      "location": "Air"
+    },
+    {
+      "id": 9,
+      "name": "Triple Pumpkin",
+      "image": "https://i.gifer.com/6PTt.gif",
+      "occupation": "Adventurer",
+      "location": "California"
+    },
+    {
+      "id": 10,
+      "name": "Pumpkin Joker",
+      "image": "https://i.pinimg.com/originals/79/53/0e/79530e7b9c4bce029318c54dac15fd3b.gif",
+      "occupation": "Cashier",
+      "location": "O-Town, California"
+    }
+  ]
+  

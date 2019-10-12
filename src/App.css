@@ -1,22 +1,89 @@
 .App {
-  text-align: center;
+  background: white;
 }
-
+/* 
 .App-logo {
-  height: 40vmin;
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+} */
+
+.nav{
+  position: fixed;
+  width: 100%;
+  background: white;
+  height: 70px;
+  padding: 10px;
+  border-bottom: 4px solid rgb(218, 17, 10);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.nav_logo a{
+  display: inline;
+  color: rgb(218, 17, 10);
+  text-align: center;
+  font-size: 38px;
+  font-family: 'Grenze', serif;
+  margin-left: 25px;
 }
 
-.App-link {
-  color: #09d3ac;
+
+.score{
+  color: rgb(218, 17, 10);
+  font-family: 'Grenze', serif;
+  font-size: 38px;
+  margin-left: auto;
+}
+.message{
+  color: black;
+  font-family: 'Grenze', serif;
+  font-size: 45px;
+}
+.App-header{
+    display: block;
+    background: url("https://astronathan.com/images/be-cool-gif-7.gif");
+    background-repeat: no-repeat;
+    background-size: 98% 400px;
+    width: 98%;
+    height: 300px;
+    margin: auto;
+    padding-top: 100px;
+    text-align: center;
+    color: rgb(218, 17, 10);
+    font-weight: bold;
+    /* border: 2px solid rgb(218, 17, 10); */
+}
+
+.App-title {
+  padding: 20px;
+  font-family: 'Lobster', cursive;
+  text-decoration: underline black;
+  padding: 5px;}
+
+.App-intro {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+
+.footer{
+  height: 50px;
+  width: 100%;
+  color: rgb(218, 17, 10);
+  background: white;
+  font-size: 20px;
+  border-top: 4px solid rgb(218, 17, 10);
+  text-align: right;
+  padding: 10px;
+  font-style: bold;
+
+
+
+}
+.container a {
+  color: rgb(218, 17, 10);
+  font-size: 20px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
 }
