@@ -32,7 +32,7 @@ class App extends Component {
       });
     }
     // set topscore = score if score>topscore.
-    if (this.state.score > this.state.topScore) {
+    if (this.state.score >= this.state.topScore) {
       this.setState({ topScore: this.state.score });
     }
     // shake the wrapper if shakeit is set to true
