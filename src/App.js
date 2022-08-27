@@ -78,7 +78,7 @@ class App extends Component {
         />
         <footer className="footer">
       <div className="container">
-        <span className="text-muted">&copy; <strong><a href="https://github.com/zeba-tahreen">Zeba </a></strong> GitHub || 2019 Rutgers Coding Bootcamp</span>
+        <span className="text-muted">&copy; <strong><a href="https://github.com/zebat">Zeba </a></strong> GitHub || 2019 Rutgers Coding Bootcamp</span>
       </div>
     </footer> 
       </div>
