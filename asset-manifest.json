@@ -1,21 +1,13 @@
 {
-  "files": {
-    "main.css": "/clicky-game-react/static/css/main.f8f645af.chunk.css",
-    "main.js": "/clicky-game-react/static/js/main.11b7df5e.chunk.js",
-    "main.js.map": "/clicky-game-react/static/js/main.11b7df5e.chunk.js.map",
-    "runtime-main.js": "/clicky-game-react/static/js/runtime-main.f5bb3f7a.js",
-    "runtime-main.js.map": "/clicky-game-react/static/js/runtime-main.f5bb3f7a.js.map",
-    "static/js/2.46ec92cf.chunk.js": "/clicky-game-react/static/js/2.46ec92cf.chunk.js",
-    "static/js/2.46ec92cf.chunk.js.map": "/clicky-game-react/static/js/2.46ec92cf.chunk.js.map",
-    "index.html": "/clicky-game-react/index.html",
-    "precache-manifest.24f9689a4ffa1e4b7193c090dfad5842.js": "/clicky-game-react/precache-manifest.24f9689a4ffa1e4b7193c090dfad5842.js",
-    "service-worker.js": "/clicky-game-react/service-worker.js",
-    "static/css/main.f8f645af.chunk.css.map": "/clicky-game-react/static/css/main.f8f645af.chunk.css.map"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.f5bb3f7a.js",
-    "static/js/2.46ec92cf.chunk.js",
-    "static/css/main.f8f645af.chunk.css",
-    "static/js/main.11b7df5e.chunk.js"
-  ]
+  "main.css": "/clicky-game-react/static/css/main.66136524.chunk.css",
+  "main.js": "/clicky-game-react/static/js/main.c2efd010.chunk.js",
+  "main.js.map": "/clicky-game-react/static/js/main.c2efd010.chunk.js.map",
+  "static/js/1.46b07cda.chunk.js": "/clicky-game-react/static/js/1.46b07cda.chunk.js",
+  "static/js/1.46b07cda.chunk.js.map": "/clicky-game-react/static/js/1.46b07cda.chunk.js.map",
+  "runtime~main.js": "/clicky-game-react/static/js/runtime~main.1ffa1f41.js",
+  "runtime~main.js.map": "/clicky-game-react/static/js/runtime~main.1ffa1f41.js.map",
+  "static/css/main.66136524.chunk.css.map": "/clicky-game-react/static/css/main.66136524.chunk.css.map",
+  "index.html": "/clicky-game-react/index.html",
+  "precache-manifest.6d533f31baa8beb551160ac824dae980.js": "/clicky-game-react/precache-manifest.6d533f31baa8beb551160ac824dae980.js",
+  "service-worker.js": "/clicky-game-react/service-worker.js"
 }
